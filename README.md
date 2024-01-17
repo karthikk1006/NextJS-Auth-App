@@ -1,5 +1,6 @@
 # Next.js Auth App
 
+Click here to visit: [Next.js Auth App](https://next-js-auth-app-eight.vercel.app/login)
 ## Overview
 
 This is a full-stack authentication app built with Next.js for both the frontend and backend. It leverages various libraries and tools to implement authentication features, including JWT, Bcrypt, and more. The app uses MongoDB as the database and integrates with Mailtrap and Nodemailer for sending verification emails.
